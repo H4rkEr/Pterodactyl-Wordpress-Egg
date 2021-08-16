@@ -2,4 +2,4 @@
 
 - This is the egg 👍
 
-Use "entrypoint.sh" To run the egg 
+Use "webpress-egg.json" To run the egg 
